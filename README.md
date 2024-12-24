@@ -142,6 +142,7 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ## License
 
-**GNU GENERAL PUBLIC LICENSE** See the `LICENSE` file for details.
+**GNU GENERAL PUBLIC LICENSE**. See the [`LICENSE`](./LICENSE) file for details.
+
 
 ---
