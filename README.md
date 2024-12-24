@@ -6,8 +6,7 @@ The **Automatic Garbage Collector** is a smart robotic system designed to detect
 
 ## Project Images
 
-- **Project Image 1**
-- **Project Image 2**
+- **Give in repositorie file**
 
 ---
 
