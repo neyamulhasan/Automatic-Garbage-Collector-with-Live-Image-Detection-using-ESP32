@@ -26,7 +26,7 @@ while True:
     ret, frame = cap.read()
 
     if not ret:
-        break
+        break # should use break statement
 
     # Perform object detection
     results = model(frame)[0]
