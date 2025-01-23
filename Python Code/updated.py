@@ -50,6 +50,6 @@ while True:
     if k % 256 == 27:  # Escape key pressed
         print("Escape hit, closing...")
         break
-
+#added a comment
 cap.release()
 cv2.destroyAllWindows()
