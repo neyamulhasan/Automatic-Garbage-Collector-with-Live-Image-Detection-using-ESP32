@@ -32,6 +32,19 @@ This project was developed by a team of four members: **Misbah**, **Rakib**, **A
 
 ---
 
+## Visual Representation
+
+Here are some screenshots showcasing the Project Kairos interface.
+
+### Index Page
+
+![Shot 1](https://github.com/neyamulhasan/Automatic-Garbage-Collector-with-Live-Image-Detection-using-ESP32/blob/main/20241007_125039~2.jpg)
+![Shot 2](https://github.com/neyamulhasan/Automatic-Garbage-Collector-with-Live-Image-Detection-using-ESP32/blob/main/PXL_20241007_064821503.NIGHT.jpg)
+![Shot 3](https://github.com/neyamulhasan/Automatic-Garbage-Collector-with-Live-Image-Detection-using-ESP32/blob/main/PXL_20241007_064722111.NIGHT.jpg)
+![Shot 4](https://github.com/neyamulhasan/Automatic-Garbage-Collector-with-Live-Image-Detection-using-ESP32/blob/main/PXL_20241007_064713685.NIGHT.jpg)
+![Shot 5](https://github.com/neyamulhasan/Automatic-Garbage-Collector-with-Live-Image-Detection-using-ESP32/blob/main/PXL_20241008_152057928.NIGHT~2.jpg)
+
+
 ## Features
 
 - **AI-based Object Detection**: Uses a laptop's webcam and YOLO algorithm to detect trash.
