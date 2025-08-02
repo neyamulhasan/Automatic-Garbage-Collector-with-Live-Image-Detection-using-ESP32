@@ -41,7 +41,7 @@ This project was developed by a team of four members: **Misbah**, **Rakib**, **A
 ![Shot 5](https://github.com/neyamulhasan/Automatic-Garbage-Collector-with-Live-Image-Detection-using-ESP32/blob/main/PXL_20241008_152057928.NIGHT~2.jpg)
 
 
-## Features
+## Features List
 
 - **AI-based Object Detection**: Uses a laptop's webcam and YOLO algorithm to detect trash.
 - **Autonomous Movement**: Uses an ESP32 microcontroller to navigate towards detected objects.
